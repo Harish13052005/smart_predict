@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart Predict – AI Powered Multi-Disease Diagnostic Platform",
+  "description": "A modern, medical-grade healthcare platform for early disease detection using AI and clinical data/MRI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
