@@ -109,10 +109,6 @@ User Input → Data Validation → ML/DL Models → SHAP Analysis → Results �
 
 ---
 
-## 🎥 Live Demo
-
-👉 https://your-live-demo-link.com
-
 ---
 
 ## ⚙️ Installation
